@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fade",
+  "base_artist": "Alan Walker",
+  "createdAt": "2025-12-10T10:18:55.061711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Fade Away",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/01_Not_Fade_Away_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Street_Spirit_(Fade_Out)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fade Away and Radiate",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/03_Fade_Away_and_Radiate_Blondie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) - BBC Radio 1 Evening Session",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_Street_Spirit_(Fade_Out)_-_BBC_Radio_1_Evening_Session_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Street_Spirit_(Fade_Out)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) (2 Meter Sessions)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/06_Street_Spirit_(Fade_Out)_(2_Meter_Sessions)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) - Acoustic",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Street_Spirit_(Fade_Out)_-_Acoustic_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) (Acoustic)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Street_Spirit_(Fade_Out)_(Acoustic)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) (Eves Club)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Street_Spirit_(Fade_Out)_(Eves_Club)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) (Session)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/10_Street_Spirit_(Fade_Out)_(Session)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Street Spirit (Fade Out) (WHFS-FM)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Street_Spirit_(Fade_Out)_(WHFS-FM)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Times (Prod. by Fade)",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/12_Times_(Prod._by_Fade)_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fade To Grey",
+      "artist": "Visage",
+      "has_synced": true,
+      "path": "select/13_Fade_To_Grey_Visage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Fade On Me",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": true,
+      "path": "select/14_Don't_Fade_On_Me_Magnolia_Electric_Co..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Fade on Me",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": false,
+      "path": "select/15_Don't_Fade_on_Me_Magnolia_Electric_Co..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fade into You",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/16_Fade_into_You_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fade Into You (FM Broadcast The Metro Chicago 12th November 1994)",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/17_Fade_Into_You_(FM_Broadcast_The_Metro_Chicago_12th_November_1994)_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fade Into You (Live at The Metro, Chicago, 11/12/1994)",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/18_Fade_Into_You_(Live_at_The_Metro,_Chicago,_11_12_1994)_Mazzy_Star.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/pl_01_Faded_Alan_Walker.txt"
+    }
+  ]
+}
